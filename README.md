@@ -1,6 +1,6 @@
 # Projeto Estagiários
 ## Requisições:
-Python 3.13.1
+Python 3.12
 
 ## Instalação das bibliotecas:
 
