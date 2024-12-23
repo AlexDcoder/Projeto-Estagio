@@ -147,5 +147,6 @@ df = gerar_notas_fiscais_ficticias(
     destinatarios=destinatarios
 )
 
-# Salvar em arquivo CSV
+# Salvar em arquivo CSV ou Excel
 df.to_csv("notas_fiscais_exemplo.csv", index=False, sep=";")
+# df.to_excel("notas_fiscais_exemplo.xlsx")
